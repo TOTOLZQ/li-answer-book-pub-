@@ -2,10 +2,6 @@
 
 M5Stack Cardputer 1.1 多模式决策辅助应用 / Multi-Mode Decision Helper for M5Stack Cardputer 1.1
 
-<p align="center">
-  <img src="images/screenshot.jpg" alt="Screenshot" width="600">
-</p>
-
 ## 项目简介 / Overview
 
 基于 M5Stack Cardputer 1.1 的随机决策辅助应用，支持 5 种玩法模式和中英双语。
@@ -61,17 +57,23 @@ A random decision helper application for M5Stack Cardputer 1.1, supporting 5 gam
 - ✅ 单色高效渲染 / Monochrome-optimized rendering
 - ✅ 无外部依赖 / No external dependencies
 
+## 版本历史 / Changelog
+
+### v0.2-beta
+
+- 适配 M5Stack Cardputer 1.1 / Adapted for M5Stack Cardputer 1.1
+- 移除 v1.0.0 版本（Core 版本）/ Removed v1.0.0 (Core version)
+- 初始 Cardputer 支持 / Initial Cardputer support
+
 ## 文件结构 / File Structure
 
 ```
 li-answer-book-pub-/
 ├── main.py          # 主程序 / Main program
-├── images/
-│   └── screenshot.jpg
 ├── README.md
 └── LICENSE
 ```
 
 ## 许可证 / License
 
-MIT License
+GNU General Public License v3.0 (GPL-3.0)

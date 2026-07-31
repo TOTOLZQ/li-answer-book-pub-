@@ -1,11 +1,22 @@
-                    GNU GENERAL PUBLIC LICENSE
+GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
- Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
- Everyone is permitted to copy and distribute verbatim copies
- of this license document, but changing it is not allowed.
+ Copyright (C) 2025  TOTOLZQ
 
-                            Preamble
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+                          Preamble
 
   The GNU General Public License is a free, copyleft license for
 software and other kinds of works.
@@ -173,8 +184,7 @@ and control, on terms that prohibit them from making any copies of
 your copyrighted material outside their relationship with you.
 
   Conveying under any other circumstances is permitted solely under
-the conditions stated below.  Sublicensing is not allowed; section 10
-makes it unnecessary.
+the conditions stated below.
 
   3. Protecting Users' Legal Rights From Anti-Circumvention Law.
 
@@ -198,9 +208,9 @@ technological measures.
 receive it, in any medium, provided that you conspicuously and
 appropriately publish on each copy an appropriate copyright notice;
 keep intact all notices stating that this License and any
-non-permissive terms added in accord with section 7 apply to the code;
-keep intact all notices of the absence of any warranty; and give all
-recipients a copy of this License along with the Program.
+non-permissive terms added in accord with section 7 apply to the
+code; keep intact all notices of the absence of any warranty; and
+give all recipients a copy of this License along with the Program.
 
   You may charge any price or no price for each copy that you convey,
 and you may offer support or warranty protection for a fee.
@@ -230,7 +240,7 @@ terms of section 4, provided that you also meet all of these conditions:
     d) If the work has interactive user interfaces, each must display
     Appropriate Legal Notices; however, if the Program has interactive
     interfaces that do not display Appropriate Legal Notices, your
-    work need not make them do so.
+    version need not make them do so.
 
   A compilation of a covered work with other separate and independent
 works, which are not by their nature extensions of the covered work,
@@ -347,15 +357,15 @@ License by making exceptions from one or more of its conditions.
 Additional permissions that are applicable to the entire Program shall
 be treated as though they were included in this License, to the extent
 that they are valid under applicable law.  If additional permissions
-apply only to part of the Program, that part may be used separately
-under those permissions, but the entire Program remains governed by
-this License without regard to the additional permissions.
+apply only to part of the Program, you may use them separately
+on that part, but the entire Program remains governed by this License
+without regard to the additional permissions.
 
-  When you convey a copy of a covered work, you may at your option
-remove any additional permissions from that copy, or from any part of
-it.  (Additional permissions may be written to require their own
-removal in certain cases when you modify the work.)  You may place
-additional permissions on material, added by you to a covered work,
+  When you convey a covered work, you may at your option remove any
+additional permissions from that work, or strip them from any covered
+work derivative.  (Additional permissions may be written to require their
+own removal in certain cases when you modify the work.)  You may
+place additional permissions on material, added by you to a covered work,
 for which you have or can give appropriate copyright permission.
 
   Notwithstanding any other provision of this License, for material you
