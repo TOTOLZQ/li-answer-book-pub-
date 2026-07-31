@@ -74,6 +74,11 @@ li-answer-book-pub-/
 └── LICENSE
 ```
 
+## 反馈 / Feedback
+
+- 微信 / WeChat: 18943990291
+- 小红书 / Xiaohongshu: 18167114105
+
 ## 许可证 / License
 
 GNU General Public License v3.0 (GPL-3.0)
