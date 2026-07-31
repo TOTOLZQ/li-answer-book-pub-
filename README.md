@@ -77,7 +77,7 @@ li-answer-book-pub-/
 ## 反馈 / Feedback
 
 - 微信 / WeChat: 18943990291
-- 小红书 / Xiaohongshu: 18167114105
+- 小红书 / Red Note: 18167114105
 
 ## 许可证 / License
 
